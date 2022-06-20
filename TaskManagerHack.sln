@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TaskManagerHack", "TaskManagerHack\TaskManagerHack.vcxproj", "{8354782A-BACE-44A3-8AAE-AFDA51FB04FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8354782A-BACE-44A3-8AAE-AFDA51FB04FF}.Debug|x64.ActiveCfg = Debug|x64
+		{8354782A-BACE-44A3-8AAE-AFDA51FB04FF}.Debug|x64.Build.0 = Debug|x64
+		{8354782A-BACE-44A3-8AAE-AFDA51FB04FF}.Debug|x86.ActiveCfg = Debug|Win32
+		{8354782A-BACE-44A3-8AAE-AFDA51FB04FF}.Debug|x86.Build.0 = Debug|Win32
+		{8354782A-BACE-44A3-8AAE-AFDA51FB04FF}.Release|x64.ActiveCfg = Release|x64
+		{8354782A-BACE-44A3-8AAE-AFDA51FB04FF}.Release|x64.Build.0 = Release|x64
+		{8354782A-BACE-44A3-8AAE-AFDA51FB04FF}.Release|x86.ActiveCfg = Release|Win32
+		{8354782A-BACE-44A3-8AAE-AFDA51FB04FF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66079D99-25D8-4F57-A6C8-36D48FAD0334}
+	EndGlobalSection
+EndGlobal
